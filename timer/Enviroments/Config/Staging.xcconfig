@@ -1,0 +1,11 @@
+//
+//  Staging.xcconfig
+//  timer
+//
+//  Created by Jose Diaz on 1/04/18.
+//  Copyright © 2018 Jose Diaz. All rights reserved.
+//
+
+URL_BASE            = www.jozedi.com/staging/
+ENABLE_ANALITYCS    = NO
+LOG                 = YES
